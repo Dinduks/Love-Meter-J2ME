@@ -1,6 +1,6 @@
 This J2ME application retuns the percentage of "love" between two names. It uses hashCode() method from String class to generate it, so the result will be always the same. 
-This app is built using "Sun Java Wireless Toolkit 2.5.2_01 for CLDC ". 
+This app is built using the "Sun Java Wireless Toolkit 2.5.2_01 for CLDC". 
 I hope this app will help you to understand how do J2ME apps work. ;) 
 
 Note:
-Why I chose a Love Meter? Because a friend of mine who develops in J2ME has already done one, and that was the first time I've thought about when I decided to create a J2ME app.
+Why I chose a Love Meter? Because a friend of mine who develops in J2ME has already done one, and that was the first thing I've thought about when I decided to create a J2ME app.
